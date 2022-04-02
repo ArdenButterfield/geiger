@@ -2,8 +2,8 @@
 
 <JUCERPROJECT id="hKiA6t" name="GeigerCounter" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
-              pluginFormats="buildAU,buildVST3" pluginManufacturer="SAM i AM"
-              pluginManufacturerCode="SAMi">
+              pluginFormats="buildAU,buildVST3" pluginManufacturer="GoblinGoods"
+              pluginManufacturerCode="GobG">
   <MAINGROUP id="ENXp7I" name="GeigerCounter">
     <GROUP id="{E7EF357C-53D3-D8C3-37CB-C4139848C99A}" name="Source">
       <FILE id="QhcUf5" name="PluginProcessor.cpp" compile="1" resource="0"
